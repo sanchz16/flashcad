@@ -18,16 +18,16 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Qual a raiz quadrada de 9?',
+    'trẽs'
 )
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Quanto é 4+4?',
+    'Oito'
 )
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Quanto é 6x6?',
+    'quarenta e oito'
 )
