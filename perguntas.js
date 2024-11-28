@@ -17,17 +17,17 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
+    'Matematica',
     'Qual a raiz quadrada de 9?',
     'trẽs'
 )
 criaCartao(
-    'Programação',
-    'Quanto é 4+4?',
-    'Oito'
+    'Politica',
+    'Quem é o presidente do Brasil?',
+    'LUla'
 )
 criaCartao(
-    'Programação',
-    'Quanto é 6x6?',
-    'quarenta e oito'
+    'Historia',
+    'Quando começou a guerra fria?',
+    '1947'
 )
